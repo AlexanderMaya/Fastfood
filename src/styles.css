@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.fondo {
+  height: 70px;
+  background-color: #fff300;
+}
+#active {
+  color: black;
+}
+
+#link {
+  color: black;
+}
+#contactanos {
+  background-color: #fff300;
+}
+
+.footer {
+  background-color: #fff300;
+  height: 50px;
+}
+.fondoo {
+  background-color: #ff3200;
+}
+.table {
+  background-color: black;
+  color: white;
+}
